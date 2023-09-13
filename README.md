@@ -2,7 +2,9 @@
 i3D Mapping exporter for Farming Simulator
 This tool exports the i3D Mappings from a Farming Simulator i3D File to xml so you can use it in your ModNameHere.xml .
 You can ether install it like a regular programm (Default is: C:\Program Files\i3D_MappingExporter) or use the Portable version which you can start by double clicking the .exe file.
+
 Installer: https://github.com/LuckyLars32/i3D_MappingExporter/releases/download/v1.0/i3D_MappingExporter_setup.exe
+
 Portable: https://github.com/LuckyLars32/i3D_MappingExporter/blob/main/i3D_MappingExporter/bin/Release/i3D_MappingExporter.exe
 # compile yourself:
 You need:

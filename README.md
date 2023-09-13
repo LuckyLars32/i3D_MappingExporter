@@ -12,8 +12,8 @@ You need:
 - NSIS 3.08 or higher (https://nsis.sourceforge.io/Download)
 
 Compile the source:
-- copy the "i3D_MappingExporter" folder into your repos folder (Default: C:\Users\<username>\Source\Repos)
-- open "i3D_MappingExporter.csproj"
+- copy the "i3D_MappingExporter" and "i3D_MappingExporter.sln" folder into your repos folder (Default: C:\Users\<username>\Source\Repos)
+- open "i3D_MappingExporter.sln"
 
 Create the installer (not needed for portable version)
 - open NSIS and click "compile NSIS Script"

@@ -5,7 +5,7 @@ You can ether install it like a regular programm (Default is: C:\Program Files\i
 
 Installer: https://github.com/LuckyLars32/i3D_MappingExporter/releases/download/v1.0/i3D_MappingExporter_setup.exe
 
-Portable: https://github.com/LuckyLars32/i3D_MappingExporter/blob/main/i3D_MappingExporter/bin/Release/i3D_MappingExporter.exe
+Portable: https://github.com/LuckyLars32/i3D_MappingExporter/releases/download/v1.0/i3D_MappingExporter.exe
 # compile yourself:
 You need:
 - VS2017 or higher (https://visualstudio.microsoft.com)

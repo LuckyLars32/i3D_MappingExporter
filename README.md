@@ -10,9 +10,11 @@ Portable: https://github.com/LuckyLars32/i3D_MappingExporter/releases/download/v
 You need:
 - VS2017 or higher (https://visualstudio.microsoft.com)
 - NSIS 3.08 or higher (https://nsis.sourceforge.io/Download)
+
 Compile the source:
 - copy the "i3D_MappingExporter" folder into your repos folder (Default: C:\Users\<username>\Source\Repos)
 - open "i3D_MappingExporter.csproj"
+
 Create the installer (not needed for portable version)
 - open NSIS and click "compile NSIS Script"
 - open "i3D_MappingExporter.nsi" from the subdirectory "i3D_MappingExporter\i3D_MappingExporter\bin\Installer\"in your repos.
